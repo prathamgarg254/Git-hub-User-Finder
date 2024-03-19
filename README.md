@@ -1,2 +1,5 @@
-# Git-hub-User-Finder
-A project to find information about various users on Github
+# github-user-finder
+
+A simple valina js project to find github users and their repositories. 
+
+Check the live  [here](http://sifulbd.github.io/user-finder/index.html) 
